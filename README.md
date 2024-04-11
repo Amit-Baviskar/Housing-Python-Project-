@@ -22,4 +22,4 @@ The Housing Dataset Describing Various Parameter Related to Location(Longitude A
 
 **Ocean Proximity:** Proximity To Ocean/Beach
 
-Greenwich Mean Time (GMT) is the mean solar time at the Royal Observatory in Greenwich, London which is measured at midnight. In English speaking nations, GMT is often used synonymously with Universal Time Coordinate (UTC).
+**Greenwich Mean Time (GMT)** is the mean solar time at the Royal Observatory in Greenwich, London which is measured at midnight. In English speaking nations, GMT is often used synonymously with Universal Time Coordinate (UTC).
